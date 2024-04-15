@@ -1,7 +1,7 @@
 
-FAKE NEWS DETECTION
+## FAKE NEWS DETECTION
 
-Description
+## Description
 
 In this project, we delve into a multimodal strategy for detecting fake news by combining natural language processing and machine learning.
 Employing a variety of models such as LSTM, SVM, KNN, Naive Bayes, Random Forest, Feature Extraction, and Decision Tree.
