@@ -34,7 +34,7 @@ Oversampling (SMOTE): Balanced the dataset to avoid biases during training.
 3.Visual Insights : Confusion matrices and training history plots allow for detailed model evaluation.
 
 📊 Results and Insights
-Sweetviz reports simplify understanding dataset distributions, missing values, and correlations.
-Oversampling significantly enhanced model performance by addressing class imbalances.
-Diverse ML models achieved high accuracy, with results visualized through confusion matrices and training plots.
+- Sweetviz reports simplify understanding dataset distributions, missing values, and correlations.
+- Oversampling significantly enhanced model performance by addressing class imbalances.
+- Diverse ML models achieved high accuracy, with results visualized through confusion matrices and training plots.
 
