@@ -1,10 +1,49 @@
+Fake News Detection Project 📰🔍
+This project explores a multimodal approach to detecting fake news by leveraging natural language processing (NLP) and machine learning (ML) techniques. By combining robust preprocessing methods, multiple machine learning models, and visual insights, the system tackles the growing challenge of misinformation in digital media.
 
-FAKE NEWS DETECTION 
+🚀 Features
+Comprehensive Machine Learning Models
 
-Description
+Integrated multiple algorithms: LSTM, SVM, KNN, Naive Bayes, Random Forest, Decision Tree, and Feature Extraction for comparative analysis.
+Models fine-tuned to maximize accuracy and performance.
+Advanced Data Preprocessing
 
-In this project, we delve into a multimodal strategy for detecting fake news by combining natural language processing and machine learning.
-Employing a variety of models such as LSTM, SVM, KNN, Naive Bayes, Random Forest, Feature Extraction, and Decision Tree.
-Incorporating visual aids like training history plots and confusion matrices, we tackle the complexities of spotting misinformation.
-Our data pre-processing includes lemmatization and oversampling to boost the robustness of the models.
-The obtained results underscore the efficacy of our approach, providing valuable insights into mitigating fake news.
+Lemmatization to normalize textual data.
+Oversampling techniques like SMOTE to handle imbalanced datasets and improve model robustness.
+Sweetviz for Dataset Insights
+
+Generated interactive HTML reports using Sweetviz to analyze dataset features, identify missing values, and explore feature distributions.
+Simplifies understanding of dataset characteristics through easy-to-read comparisons and visualizations.
+Data Analysis and Visualization
+
+Included confusion matrices and training history plots to evaluate model performance.
+High Accuracy and Robustness
+
+Results underscore the effectiveness of combining multiple models and preprocessing techniques.
+🛠️ Technologies Used
+Programming Language: Python
+Machine Learning Models: LSTM, SVM, KNN, Naive Bayes, Random Forest, Decision Tree
+Libraries and Frameworks: TensorFlow, scikit-learn, NLTK, Pandas, Sweetviz
+Visualization Tools: Sweetviz, Matplotlib, Seaborn
+Preprocessing Techniques: Lemmatization, Oversampling (SMOTE)
+
+
+📊 Key Components
+Sweetviz
+
+Generates detailed, interactive HTML reports for exploratory data analysis.
+Includes feature correlations, missing value identification, and distribution analysis.
+Machine Learning Models
+
+Applied multiple ML models, including both traditional (SVM, Random Forest) and deep learning (LSTM).
+Preprocessing Techniques
+
+Lemmatization: Normalized text for improved model understanding.
+Oversampling (SMOTE): Balanced the dataset to avoid biases during training.
+Visual Insights
+
+Confusion matrices and training history plots allow for detailed model evaluation.
+📊 Results and Insights
+Sweetviz reports simplify understanding dataset distributions, missing values, and correlations.
+Oversampling significantly enhanced model performance by addressing class imbalances.
+Diverse ML models achieved high accuracy, with results visualized through confusion matrices and training plots.
